@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+
+
+    <title>Instagram</title>
+</head>
+<body>
+    <div class="container">
+    <div class="post">
+        <div class="header">
+             <div class="head-icon"><i class="fa fa-html5 fa-2x"></i></div>
+             <div class="head-text"><p><strong>HTML5</strong> Rigoberto</p></div>
+             <div class="head-dots"><i class="fa fa-ellipsis-v fa-2x"></i></div>
+        </div>
+        <div class="content">
+            <img src="https://pbs.twimg.com/profile_images/640687635946565632/5pRp2WLy_400x400.jpg" width="430" height="300" alt="country and mountains">
+        </div>
+        <div class="footer">
+            <div class="icon">
+                <div class="fonts-1">
+                    <i class="fa fa-heart fa-2x"></i>
+                    <i class="fa fa-comment fa-2x"></i>
+                    <i class="fa fa-send fa-2x"></i>
+                </div>
+                <div class="fonts-2">
+                    <i class="fa fa-bookmark fa-2x"></i>
+                </div>
+            </div>
+            <div class="paragraph-1">
+            <p>Liked by <strong> 4GeeksAcademy</strong>, <strong>html </strong>and <strong> 100,000 others</strong> </p>
+            </div>
+            <div class="paragraph-2">
+            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit<br> scelerisque donec libero, dictum malesuada nec commodo<br> egestas porttitor cum congue lobortis</p>
+                </div>
+            </div>     
+        </div>
+    </div>
+    </div>
+</body>
+</html>
